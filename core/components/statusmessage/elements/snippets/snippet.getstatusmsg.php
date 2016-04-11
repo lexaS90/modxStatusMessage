@@ -1,6 +1,6 @@
 <?php
 /**
- * getMassage
+ * getStatusMsg
  *
  * DESCRIPTION
  *
@@ -12,7 +12,7 @@
  *
  * USAGE:
  *
- * [[!getMessage]]
+ * [[!getStatusMsg]]
  *
  * RETURN
  * 

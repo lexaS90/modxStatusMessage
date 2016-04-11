@@ -1,6 +1,6 @@
 <?php
 /**
- * setMassage
+ * setStatusMsg
  *
  * DESCRIPTION
  *
@@ -13,7 +13,7 @@
  *
  * USAGE:
  *
- * [[!setMessage? &text=`TEXT` &status=`danger`]]
+ * [[!setStatusMsg? &text=`TEXT` &status=`danger`]]
  *
  */
  

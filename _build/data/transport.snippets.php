@@ -3,12 +3,12 @@
 $snippets = array();
 
 $tmp = array(
-	'getMessage' => array(
-		'file' => 'getmessage',
+	'getStatusMsg' => array(
+		'file' => 'getstatusmsg',
 		'description' => '',
 	),
-	'setMessage' => array(
-		'file' => 'setmessage',
+	'setStatusMsg' => array(
+		'file' => 'setstatusmsg',
 		'description' => '',
 	),
 );
